@@ -72,7 +72,7 @@ If you encounter any issues or have any questions, here are some common solution
 
 Contributors names and contact info
 
-Nitish   
+Harshveer Singh    
 mail: harshveerraka@gmail.com
 
 
